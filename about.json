@@ -1,16 +1,18 @@
 {
     "name": "Elikya Bokanga",
     "email": "elikyabokanga@gmail.com",
+    "location": "Boston, MA, USA",
+    "hobbies": "programming, fitness, biohacking, fantasy writing",
     "headshot": "https://i.imgur.com/sncPP.jpg",
-    "bio": "For a long time I've wanted to code, from TI-89 math hacks and Notepad kiddy scripts in high school to being an Excel macro maximalist working full-time in college. In 2021 I finally decided to bite the bullet and pursue my dreams in app, crypto, and game development. Here is a brief preview of my ever expanding fullstack toolkit:",
+    "bio": "For a long time I've wanted to code, from TI-89 math hacks and VBScript stack overflow 'viruses' in high school to being an Excel macro maximalist working full-time in college. In 2021 I finally decided to bite the bullet and pursue my dreams in app, crypto, and game development. Here is a brief preview of my ever expanding fullstack toolkit:",
     "tech": [
         {
             "name": "HTML5",
-            "logo": "https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png"
+            "logo": "https://clipground.com/images/html5-logo-2.png"
         },
         {
             "name": "CSS3",
-            "logo": "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
+            "logo": "https://www.logolynx.com/images/logolynx/8c/8cdf4c047e99f7389e76aa4e2e7e2803.png"
         },
         {
             "name": "JS",
