@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Who's the Bigger Weab?",
+      "live": "http://project1-elikyab.vercel.app/",
+      "git": "https://github.com/elikyaB/project1",
+      "image": "https://i.imgur.com/PZF8why.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "RPG Party",
+      "live": "https://eb-penguin-project2.herokuapp.com/",
+      "git": "https://github.com/elikyaB/project2",
+      "image": "https://i.imgur.com/AVwaI6s.png"
     }
 ]

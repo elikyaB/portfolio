@@ -1,6 +1,68 @@
 {
-    "name": "Bob Smith",
-    "email": "Bob@BobSmith.dev",
-    "headshot": "http://www.imgur.com/pictureofproject.png",
-    "bio": "Bob Smith graduated from General Assembly in 2017. Afterwords, he went to work for XYZ Technologies where he maintained a full stack application using Meteor and Ember. He also recently started started learning Prolog, cause why not waste time."
+    "name": "Elikya Bokanga",
+    "email": "elikyabokanga@gmail.com",
+    "headshot": "https://i.imgur.com/sncPP.jpg",
+    "bio": "For a long time I've wanted to code, from TI-89 math hacks and Notepad kiddy scripts in high school to being an Excel macro maximalist working full-time in college. In 2021 I finally decided to bite the bullet and pursue my dreams in app, crypto, and game development. Here is a brief preview of my ever expanding fullstack toolkit:",
+    "tech": [
+        {
+            "name": "HTML5",
+            "logo": "https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png"
+        },
+        {
+            "name": "CSS3",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
+        },
+        {
+            "name": "JS",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Badge_js-strict.svg/555px-Badge_js-strict.svg.png"
+        },
+        {
+            "name": "Express",
+            "logo": "https://vectorified.com/images/express-js-icon-20.png"
+        },
+        {
+            "name": "Node JS",
+            "logo": "https://alexeyza.com/assets/article_images/2015-09-28-getting-started-with-node-dot-js/nodejs.png"
+        },
+        {
+            "name": "React",
+            "logo": "https://coder.clothing/images/stories/virtuemart/product/resized/react-logo_418x418.png"
+        },
+        {
+            "name": "Angular",
+            "logo": "https://cdn-images-1.medium.com/max/1600/1*J_-vtvcqV1-v14WqkPWhiQ.png"
+        },
+        {
+            "name": "Contentful",
+            "logo": "https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png"
+        },
+        {
+            "name": "jQuery",
+            "logo": "https://pluspng.com/img-png/jquery-logo-png-jquery-logo-png-transparent-background-png-img-transparent-860x868.png"
+        },
+        {
+            "name": "Heroku",
+            "logo": "https://3.bp.blogspot.com/-GBqhXpRFB7M/XGvXa6Nj_QI/AAAAAAACC1Y/Gr72-9mQ1tEaXLxfJZRvtk_tix64aG_ywCLcBGAs/s1600/download.png"
+        },
+        {
+            "name": "SASS",
+            "logo": "https://logonoid.com/images/sass-logo.png"
+        },
+        {
+            "name": "Codepen",
+            "logo": "https://maxcdn.icons8.com/Android_L/PNG/512/Logos/codepen-512.png"
+        },
+        {
+            "name": "Git",
+            "logo": "https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png"
+        },
+        {
+            "name": "Github",
+            "logo": "http://pngimg.com/uploads/github/github_PNG80.png"
+        },
+        {
+            "name": "VS Code",
+            "logo": "https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png"
+        }
+    ]
 }
